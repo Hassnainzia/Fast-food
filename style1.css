@@ -57,6 +57,7 @@ html {
     padding: 3px 22px;
     text-decoration: none;
     transition: all 0.3s;
+    font-family: 'Baloo Bhaina 2', cursive;
 }
 
 #navbar ul li a:hover {
